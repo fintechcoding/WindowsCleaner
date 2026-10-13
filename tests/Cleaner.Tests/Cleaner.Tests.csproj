@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/Cleaner.Core/Cleaner.Core.csproj" />
+    <ProjectReference Include="../../src/Cleaner.Service/Cleaner.Service.csproj" />
+  </ItemGroup>
+</Project>
